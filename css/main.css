@@ -3,5 +3,5 @@ body {
   color: red;
   font-family: 'helvetica';
   font-size: 25px;
-  margin: 25px;
+  margin: 100px, 25px, 100px, 25px;
 }
