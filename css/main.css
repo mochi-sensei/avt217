@@ -9,6 +9,7 @@ a {
   color: teal;
   text-decoration: none;
 }
-a:hover {
-  color: pink;
+
+ul {
+  list-style-type: none;
 }
