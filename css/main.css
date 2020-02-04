@@ -29,3 +29,13 @@ ul {
 li{
   margin: 25px 0 0 0;
 }
+
+#images{
+  margin: 0;
+  text-align: center;
+}
+
+#images img{
+  max-width: 200px;
+  margin: 25px 0;
+}
