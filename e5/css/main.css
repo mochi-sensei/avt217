@@ -21,3 +21,8 @@ h3{
 h5{
   margin: 0;
 }
+
+#images img{
+  max-width: 200px;
+  margin: 25px 0;
+}
