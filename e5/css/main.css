@@ -11,4 +11,5 @@ body {
 #images img{
   max-width: 500px;
   margin: 25px 0;
+  align-items: center;
 }
