@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(162, 250, 255);
+  color: blue;
+  font-family: 'garamond';
+  font-size: 24.5px;
+  margin: 100px;
+}
+
+#images{
+  margin: 0;
+  text-align: center;
+}
+
+#images img{
+  max-width: 200px;
+  margin: 25px 0;
+}
