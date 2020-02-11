@@ -4,6 +4,7 @@ body {
   font-family: 'garamond';
   font-size: 24.5px;
   margin: 100px;
+  width: 100px, auto;
 }
 
 h1{
