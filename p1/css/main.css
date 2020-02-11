@@ -14,10 +14,12 @@ h2{
   text-align: center;
 }
 
-h3{
+#images{
+  margin: 0;
   text-align: center;
 }
 
-h5{
-  margin: 0;
+#images img{
+  max-width: 400px;
+  margin: 25px 0;
 }
