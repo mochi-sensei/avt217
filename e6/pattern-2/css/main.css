@@ -18,16 +18,20 @@ body{
 }
 
 .block-4{
+  width: 45px;
+  height: 45px;
   border-color: cyan;
-  margin: 75px;
+  margin: 10px;
 }
 
 .block-5{
+  width: 55px;
+  height: 55px;
   border-color: pink;
-  margin: 50px;
+  margin: 10px;
 }
 
 .block-6{
   border-color: magenta;
-  margin: 35px;
+  margin: 10px;
 }

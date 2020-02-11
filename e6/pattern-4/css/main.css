@@ -1,0 +1,28 @@
+.container{
+  width: 120%;
+  margin: -50px, -10px;
+}
+
+body{
+  margin: -50px;
+}
+
+.block-1, .block-2, .block-3{
+  width: 100px;
+  height: 100px;
+  margin: -10px;
+  float: left;
+  opacity: .7;
+  border-radius: 30%;
+  border: 10px solid black;
+}
+
+.block-1{
+  border-color: red;
+  margin: -10px;
+}
+
+.block-2{
+  border-color: orange;
+  margin: -10px;
+}
