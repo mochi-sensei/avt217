@@ -1,4 +1,69 @@
+body {
+  background-color: rgb(45, 45, 45);
+  color: white;
+  font-family: 'garamond';
+  font-size: 24.5px;
+  margin: 100px;
+}
+
 .container{
-  width: 50px;
-  margin: 100px, auto;
+  width: 120%;
+  margin: -50px, -10px;
+}
+
+body{
+  margin: 0px;
+}
+
+.block-1, .block-2, .block-3{
+  width: 100px;
+  height: 100px;
+  margin: -10px;
+  float: left;
+  opacity: .7;
+  border-radius: 30%;
+  border: 10px solid black;
+}
+
+.block-1{
+  border-color: red;
+  margin: -10px;
+}
+
+.block-2{
+  border-color: orange;
+  margin: -10px;
+}
+
+.block-3{
+  border-color: yellow;
+  margin: -10px;
+}
+
+.block-4{
+
+}
+
+.block-5{
+
+}
+
+.block-6{
+
+}
+
+.block-7{
+
+}
+
+.block-8{
+
+}
+
+.block-9{
+
+}
+
+.block-10{
+
 }
