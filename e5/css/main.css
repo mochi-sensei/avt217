@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(127, 0, 11);
+  background-color: rgb(222, 222, 222);
   color: black;
   font-family: 'garamond';
   font-size: 24.5px;
@@ -7,8 +7,14 @@ body {
 }
 
 
+#images{
+  margin: 0;
+  text-align: center;
+}
 
 #images img{
-  max-width: 500px;
+  max-width: 400px;
   margin: 25px 0;
+}
+
 }
