@@ -12,22 +12,22 @@ body{
   height: 100px;
   margin: -10px;
   float: left;
-  opacity: .7;
-  border-radius: 30%;
+  opacity: .2;
+  border-radius: 40%;
   border: 10px solid black;
 }
 
 .block-1{
-  border-color: red;
-  margin: -10px;
+  border-color: cyan;
+  margin: -5px;
 }
 
 .block-2{
-  border-color: orange;
-  margin: -10px;
+  border-color: yellow;
+  margin: -5px;
 }
 
 .block-3{
-  border-color: yellow;
-  margin: -10px;
+  border-color: magenta;
+  margin: -5px;
 }

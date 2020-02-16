@@ -13,13 +13,3 @@ h1{
 h2{
   text-align: center;
 }
-
-#images{
-  margin: 0;
-  text-align: center;
-}
-
-#images img{
-  max-width: 400px;
-  margin: 25px 0;
-}
