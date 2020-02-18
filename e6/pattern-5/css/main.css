@@ -7,27 +7,46 @@ body{
   margin: 0px;
 }
 
-.block-1, .block-2, .block-3{
+.block-1, .block-2, .block-3, .block-4, .block-5{
   width: 100px;
   height: 100px;
   margin: -10px;
   float: left;
-  opacity: .7;
+  opacity: .6;
   border-radius: 30%;
   border: 10px solid black;
 }
 
 .block-1{
-  border-color: red;
-  margin: -10px;
+  border-color: orange;
+  background-color: orange;
+  margin: 0px;
 }
 
 .block-2{
-  border-color: orange;
-  margin: -10px;
+  border-color: black;
+  background-color: white;
+  margin: 0px;
 }
 
 .block-3{
-  border-color: yellow;
-  margin: -10px;
+  border-color: gray;
+  background-color: gray;
+  margin: 0px;
+}
+
+.block-4{
+  border-radius: 50%;
+  border-color: black;
+  background-color: black;
+  margin: 0px;
+  opacity: .9;
+}
+
+.block-5{
+  border-radius: 30%;
+  border-color: black;
+  background-color: black;
+  margin: 0px;
+  opacity: .9;
 }
