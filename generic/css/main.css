@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+
+
+body{
+
+}
+
+#container{
+  background-color: gray;
+  width: 75%, auto;
+  padding: 100%;
+  margin: 100px, auto;
+}
+
+h1.google{
+  font-weight: 400;
+  font-size: 50px;
+  font-family: 'Tinos', serif;
+  cursive;
+}
+
+h2.adobe{
+  font-family: reross-quadratic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
