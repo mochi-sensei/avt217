@@ -11,37 +11,37 @@ body.dark{
 
 body.dark2{
   background-color: rgb(65, 145, 207);
-  color: rgb(113, 102, 149);
+  color: rgb(100, 80, 195);
 }
 
 body.dark3{
   background-color: rgb(56, 127, 182);
-  color: rgb(91, 81, 121);
+  color: rgb(91, 81, 190);
 }
 
 body.dark4{
   background-color: rgb(49, 113, 163);
-  color: rgb(70, 63, 95);
+  color: rgb(85, 50, 150);
 }
 
 body.dark5{
   background-color: rgb(40, 92, 132);
-  color: rgb(54, 48, 74);
+  color: rgb(54, 48, 120);
 }
 
 body.dark6{
   background-color: rgb(28, 65, 93);
-  color: rgb(31, 28, 43);
+  color: rgb(31, 28, 90);
 }
 
 body.dark7{
   background-color: rgb(19, 45, 65);
-  color: rgb(17, 15, 24);
+  color: rgb(17, 15, 75);
 }
 
 body.dark8{
   background-color: rgb(15, 39, 57);
-  color: rgb(18, 13, 40);
+  color: rgb(18, 13, 45);
 }
 
 body.dark9{
@@ -66,4 +66,8 @@ h3.fairytale{
     font-family: 'Marck Script', cursive;
     text-align: center;
   }
+}
+
+a:hover{
+  color: inherit;
 }
