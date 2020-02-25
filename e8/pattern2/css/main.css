@@ -1,14 +1,15 @@
 body{
-  margin: 0px;
+  margin: 0;
 }
 
-.container, .header, .column, .footer, .margin{
-  background-color: red;
+.subheader, .header, .column, .footer{
+  background-color: seagreen;
   float: left;
 }
 
 .container{
     width: 900px;
+    margin: 100px auto;
 }
 
 .header{
@@ -16,10 +17,10 @@ body{
     height: 100px;
 }
 
-.subhead{
+.subheader{
   width: 900px;
   height: 50px;
-  margin: -25px 0;
+  margin: 25px 0;
 }
 
 .column{
@@ -30,9 +31,9 @@ body{
 .footer{
   width: 900px;
   height: 75px;
-  margin: -25px 0 0 0;
+  margin: 25px 0 0 0;
 }
 
-.margin{
+.margin25{
   margin: 0 25px;
 }
