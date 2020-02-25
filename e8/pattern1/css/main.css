@@ -1,0 +1,23 @@
+body{
+  margin: 0px;
+  background-color: seagreen;
+}
+
+.board{
+  width: 100vh;
+  margin: calc((100vh - 400px) / 2) auto;
+}
+
+.red, .white{
+  float: left;
+  width: calc(100vh / 8);
+  height: calc(100vh / 8);
+}
+
+.red{
+  background-color: pink;
+}
+
+.white{
+  background-color: salmon;
+}
