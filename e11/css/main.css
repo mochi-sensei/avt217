@@ -1,14 +1,13 @@
 body {
-  background-color: teal;
-  color: orange;
-  font-family: 'garamond';
+  background-color: seagreen;
+  color: white;
+  font-family: 'minion pro';
   font-weight: bold;
   font-size: 45px;
   margin: 100px;
 }
 
 #img{
-  background-color: teal;
   margin: 0;
   text-align: center;
 }
