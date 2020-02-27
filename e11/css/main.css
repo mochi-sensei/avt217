@@ -1,0 +1,19 @@
+body {
+  background-color: teal;
+  color: orange;
+  font-family: 'garamond';
+  font-weight: bold;
+  font-size: 45px;
+  margin: 100px;
+}
+
+#img{
+  background-color: teal;
+  margin: 0;
+  text-align: center;
+}
+
+#img img{
+  max-width: 500px;
+  margin: 25px 0;
+}
