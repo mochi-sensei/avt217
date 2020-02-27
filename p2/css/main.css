@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(130, 201, 255);
+  color: #7071e1;
+  font-size: 24.5px;
+  margin: 100px;
+}
+
+#images{
+  margin: 0;
+  text-align: center;
+}
+
+#images img{
+  max-width: 900px;
+  margin: 25px 0;
+}
