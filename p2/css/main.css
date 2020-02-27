@@ -4,13 +4,3 @@ body {
   font-size: 24.5px;
   margin: 100px;
 }
-
-#images{
-  margin: 0;
-  text-align: center;
-}
-
-#images img{
-  max-width: 700px;
-  margin: 25px 0;
-}
