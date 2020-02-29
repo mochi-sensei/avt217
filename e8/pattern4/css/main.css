@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+}
+
+.tennis, .box{
+  background-color: red;
+  float: left;
+}
+
+.container{
+    width: 900px;
+    margin: 100px auto;
+}
+
+.tennis{
+  width: 100px;
+  height: 400px;
+}
+
+.box{
+  float: left;
+  width: 400px;
+  height: 400px;
+}
