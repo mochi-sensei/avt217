@@ -3,52 +3,42 @@ body{
   background-color: plum;
 }
 
-.horizontal, .vertical, .box{
-  background-color: white;
-  float: left;
+*{
+  box-sizing: border-box;
 }
 
-.container{
-    width: 100px;
+.court{
+    width: 900px;
     margin: 100px auto;
+    background-color: lightpink;
 }
 
-.vertical{
-  width: 100px;
-  height: 550px;
+.side{
+  width: 150px;
+  height: 600px;
+  padding: 50px;
+  background-color: lightpink;
+  float: left;
+  border: 5px solid white;
 }
 
-.container2{
-  width: 700px;
-  margin: 100px auto;
+.back{
+  width: 600px;
+  height: 200px;
+  border: 5px solid white;
+  float: left;
+  background-color: lightpink;
 }
 
-.horizontal{
-  width: 680px;
-  height: 205px;
+.service{
+  width: 300px;
+  height: 400px;
+  background-color: lightpink;
+  float: left;
+  border: 5px solid white;
 }
 
-.box{
-  width: 335px;
-  height: 335px;
-}
-
-.tmargin10{
-  margin-top: 10px;
-}
-
-.bmargin10{
-  margin-bottom: 10px;
-}
-
-.lmargin10{
-  margin-left: 10px;
-}
-
-.rmargin10{
-  margin-right: 10px;
-}
-
-ul{
-  list-style-type: none;
+.single{
+  width: 600px;
+  float: left;
 }
