@@ -4,3 +4,15 @@ body {
   font-size: 24.5px;
   margin: 100px;
 }
+
+
+
+#img{
+  margin: 0;
+  text-align: center;
+}
+
+#img img{
+  max-width: 500px;
+  margin: 25px 0;
+}
