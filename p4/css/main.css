@@ -1,18 +1,20 @@
 body {
-  background-color: rgb(130, 201, 255);
-  color: #7071e1;
+  background-color: rgb(222, 222, 222);
+  color: black;
+  font-family: 'garamond';
   font-size: 24.5px;
   margin: 100px;
 }
 
 
-
-#img{
+#images{
   margin: 0;
   text-align: center;
 }
 
-#img img{
-  max-width: 500px;
+#images img{
+  max-width: 400px;
   margin: 25px 0;
+}
+
 }
